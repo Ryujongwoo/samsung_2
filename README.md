@@ -1,3 +1,8 @@
 # Zoom 회의 참가
 https://us06web.zoom.us/j/87800829028?pwd=YDMAyzsrmhXa2Nl7rIeLBzgE1EqrLg.1
 
+# 2026년 10월 29일 - 1일차
+① 00_파이썬설치.ipynb  
+② 01_print.ipynb  
+&bnsp;&bnsp;&bnsp;▶ custom.css  
+&bnsp;&bnsp;&bnsp;▶ python-logo.png
