@@ -1,5 +1,9 @@
 # 2026년 10월 30일 - 3일차
-
+① 06_list.ipynb
+② 07_tuple.ipynb
+③ 08_dict.ipynb
+④ 09_set.ipynb
+⑤ 10_for.ipynb
 
 # 2026년 10월 29일 - 2일차
 ① 02_input.ipynb  
