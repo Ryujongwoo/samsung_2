@@ -1,5 +1,7 @@
 # 2026년 11월 2일 - 4일차
-
+① 10_for.ipynb  
+② 11_while.ipynb  
+③ 12_lotto.ipynb
 
 # 2026년 10월 30일 - 3일차
 ① 06_list.ipynb  
