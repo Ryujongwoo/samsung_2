@@ -1,5 +1,13 @@
 # 2026년 11월 3일 - 5일차
-
+① 13_function_1.ipynb  
+② 14_function_2.ipynb  
+③ 15_function_3.ipynb  
+④ 16_function_4.ipynb  
+⑤ 17_function_5.ipynb  
+⑥ 18_calendarModule.ipynb  
+⑦ 19_calendar_1.ipynb  
+⑧ 20_calendar_2.ipynb  
+⑨ 21_calendar_3.ipynb  
 
 # 2026년 11월 2일 - 4일차
 ① 10_for.ipynb  
