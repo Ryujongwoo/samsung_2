@@ -1,3 +1,6 @@
+# 2026년 11월 4일 - 6일차
+
+
 # 2026년 11월 3일 - 5일차
 ① 13_function_1.ipynb  
 ② 14_function_2.ipynb  
