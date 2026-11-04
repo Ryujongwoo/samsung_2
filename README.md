@@ -1,7 +1,13 @@
 # 2026년 11월 4일 - 6일차
-
-## 크롤링 headers
-{'User-agent': 'Mozilla/5.0 (Windows NT 6.3; Win64; x64; Trident/7.0; MSAppHost/2.0; rv:11.0) like Gecko'}
+① 22_try_except.ipynb  
+② 23_fileWrite.ipynb  
+③ 24_fileRead.ipynb  
+④ 25_class.ipynb  
+⑥ 26_inheritance.ipynb  
+## 파이썬 기초 문법 끝 크롤링 시작
+크롤링 headers  
+{'User-agent': 'Mozilla/5.0 (Windows NT 6.3; Win64; x64; Trident/7.0; MSAppHost/2.0; rv:11.0) like Gecko'}  
+⑦ 27_음원사이트크롤링_벅스차트.ipynb
 
 # 2026년 11월 3일 - 5일차
 ① 13_function_1.ipynb  
