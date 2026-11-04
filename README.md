@@ -3,7 +3,7 @@
 ② 23_fileWrite.ipynb  
 ③ 24_fileRead.ipynb  
 ④ 25_class.ipynb  
-④ 26_inheritance.ipynb  
+⑤ 26_inheritance.ipynb  
 ## 파이썬 기초 문법 끝 크롤링 시작
 크롤링 headers  
 {'User-agent': 'Mozilla/5.0 (Windows NT 6.3; Win64; x64; Trident/7.0; MSAppHost/2.0; rv:11.0) like Gecko'}  
