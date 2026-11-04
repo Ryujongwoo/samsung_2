@@ -1,5 +1,7 @@
 # 2026년 11월 4일 - 6일차
 
+## 크롤링 headers
+{'User-agent': 'Mozilla/5.0 (Windows NT 6.3; Win64; x64; Trident/7.0; MSAppHost/2.0; rv:11.0) like Gecko'}
 
 # 2026년 11월 3일 - 5일차
 ① 13_function_1.ipynb  
