@@ -1,3 +1,6 @@
+# 2026년 11월 5일 - 7일차
+
+
 # 2026년 11월 4일 - 6일차
 ① 22_try_except.ipynb  
 ② 23_fileWrite.ipynb  
