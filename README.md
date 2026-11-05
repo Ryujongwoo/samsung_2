@@ -1,7 +1,12 @@
 # 2026년 11월 5일 - 7일차
-
+① 27_음원사이트크롤링_벅스차트.ipynb  
+② 28_음원사이트크롤링_멜론차트.ipynb  
+③ 29_음원사이트크롤링_지니차트.ipynb  
+④ 30_스타벅스사이트크롤링.ipynb  
 ## folium 아이콘 목록 url
-https://getbootstrap.com/docs/3.4/components/
+https://getbootstrap.com/docs/3.4/components/  
+⑤ 31_folium_지도시각화.ipynb  
+⑥ 32_스타벅스매장위치_지도시각화.ipynb  
 
 # 2026년 11월 4일 - 6일차
 ① 22_try_except.ipynb  
