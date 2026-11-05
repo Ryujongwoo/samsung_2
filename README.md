@@ -1,5 +1,7 @@
 # 2026년 11월 5일 - 7일차
 
+## folium 아이콘 목록 url
+https://getbootstrap.com/docs/3.4/components/
 
 # 2026년 11월 4일 - 6일차
 ① 22_try_except.ipynb  
