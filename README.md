@@ -21,7 +21,7 @@
 ④ 30_스타벅스사이트크롤링.ipynb  
 ## folium 아이콘 목록 url
 https://getbootstrap.com/docs/3.4/components/  
-## 크롤링 끝 데이터 분석 시작
+## 크롤링 끝 데이터 분석 및 시각화 시작
 ⑤ 31_folium_지도시각화.ipynb  
 ⑥ 32_스타벅스매장위치_지도시각화.ipynb  
 
