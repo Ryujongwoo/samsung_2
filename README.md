@@ -1,5 +1,18 @@
 # 2026년 11월 10일 - 10일차
-
+① 39_한글형태소분석.ipynb  
+② 40_matplotlib_seaborn_시각화.ipynb  
+③ 41_워드클라우드.ipynb  
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;wordData.txt  
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;alice.txt  
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;ebook.txt  
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;muk_01.txt  
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;alice_mask.png  
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;alice_color.png  
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;stormtrooper_mask.png  
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;korea_mask.jpg  
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;mask.png  
+④ 42_업무추진비_데이터분석.ipynb  
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;raw.csv
 
 # 2026년 11월 9일 - 9일차
 ① 38_따릉이스테이션크롤링_데이터셋만들기.ipynb - 최종 완성  
