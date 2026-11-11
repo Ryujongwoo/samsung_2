@@ -1,3 +1,6 @@
+# 2026년 11월 12일 - 12일차
+
+
 # 2026년 11월 11일 - 11일차
 ① 42_업무추진비_데이터분석.ipynb  
 ② 43_시계열데이터_주식시세분석.ipynb
@@ -6,17 +9,17 @@
 ① 39_한글형태소분석.ipynb  
 ② 40_matplotlib_seaborn_시각화.ipynb  
 ③ 41_워드클라우드.ipynb  
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;wordData.txt  
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;alice.txt  
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;ebook.txt  
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;muk_01.txt  
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;alice_mask.png  
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;alice_color.png  
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;stormtrooper_mask.png  
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;korea_mask.jpg  
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;mask.png  
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;wordData.txt - 워드클라우드 데이터 파일  
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;alice.txt - 워드클라우드 데이터 파일   
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;ebook.txt - 워드클라우드 데이터 파일   
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;muk_01.txt - 워드클라우드 데이터 파일    
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;alice_mask.png - 워드클라우드 마스크 이미지 파일    
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;alice_color.png - 워드클라우드 마스크 이미지 파일      
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;stormtrooper_mask.png - 워드클라우드 마스크 이미지 파일      
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;korea_mask.jpg - 워드클라우드 마스크 이미지 파일      
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;mask.png - 워드클라우드 마스크 이미지 파일      
 ④ 42_업무추진비_데이터분석.ipynb  
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;raw.csv
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;raw.csv - 업무 추진비 데이터 분석 데이터 파일
 
 # 2026년 11월 9일 - 9일차
 ① 38_따릉이스테이션크롤링_데이터셋만들기.ipynb - 최종 완성  
