@@ -1,5 +1,8 @@
 # 2026년 11월 16일 - 14일차
-
+① 46_MongoDB_파이썬연동_스타벅스매장.ipynb
+② 47_머신러닝에_사용할_데이터.ipynb
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;boston.csv
+③ 48_머신러닝에_사용할_데이터_전처리.ipynb
 
 # 2026년 11월 13일 - 13일차
 ① mongodb.hwp - MongoDB 설명 한글 파일  
