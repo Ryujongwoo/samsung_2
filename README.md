@@ -1,10 +1,15 @@
 # 2026년 11월 17일 - 15일차
-
+① 48_머신러닝에_사용할_데이터_전처리.ipynb  
+② 49_머신러닝_k최근접이웃_알고리즘.ipynb  
+③ 50_머신러닝_k최근접이웃_알고리즘_포지션예측.ipynb  
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;basketball_stat.csv - k최근접 이웃 알고리즘 데이터 파일    
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;k-fold.png  
 
 # 2026년 11월 16일 - 14일차
 ① 46_MongoDB_파이썬연동_스타벅스매장.ipynb  
+## MongoDB 끝 머신러닝 시작
 ② 47_머신러닝에_사용할_데이터.ipynb  
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;boston.csv  
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;boston.csv - 보스턴 집값 데이터 파일  
 ③ 48_머신러닝에_사용할_데이터_전처리.ipynb
 
 # 2026년 11월 13일 - 13일차
