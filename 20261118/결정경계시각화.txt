@@ -1,0 +1,42 @@
+C_list = []
+C_list.append(clf.best_params_['C'] * 0.01)
+C_list.append(clf.best_params_['C'])
+C_list.append(clf.best_params_['C'] * 100)
+
+-------------------------------------------------------------------------------
+
+gamma_list = []
+gamma_list.append(clf.best_params_['gamma'] * 0.01)
+gamma_list.append(clf.best_params_['gamma'])
+gamma_list.append(clf.best_params_['gamma'] * 100)
+
+-------------------------------------------------------------------------------
+
+position = []
+for i in y_train:
+    position.append(0 if i == 'C' else 1)
+
+-------------------------------------------------------------------------------
+
+models = []
+for c in C_list:
+    for g in gamma_list:
+        model = SVC(C=c, gamma=g)
+        model.fit(x_train, y_train)
+        models.append([c, g, model])
+models
+
+-------------------------------------------------------------------------------
+
+plt.figure(figsize=(20, 20))
+for i, (c, g, model) in enumerate(models):
+    z = model.decision_function(np.c_[xx.ravel(), yy.ravel()])
+    z = z.reshape(xx.shape)
+    plt.subplot(len(C_list), len(gamma_list), i + 1)
+    plt.pcolormesh(xx, yy, -z, cmap=plt.cm.RdBu_r)
+    plt.scatter(x=x_train['3P'], y=x_train['BLK'], c=position, cmap=plt.cm.RdBu_r, edgecolors='k')
+    plt.title(f'C: {c}, gamma: {g}')
+    plt.xlabel('3점슛')
+    plt.ylabel('블록슛')
+plt.show()
+
