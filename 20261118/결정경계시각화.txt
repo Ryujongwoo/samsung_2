@@ -29,6 +29,7 @@ models
 -------------------------------------------------------------------------------
 
 plt.figure(figsize=(20, 20))
+xx, yy = np.meshgrid(np.linspace(0, 4, 100), np.linspace(0, 4, 100))
 for i, (c, g, model) in enumerate(models):
     z = model.decision_function(np.c_[xx.ravel(), yy.ravel()])
     z = z.reshape(xx.shape)
