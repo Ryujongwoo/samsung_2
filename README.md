@@ -1,5 +1,12 @@
 # 2026년 11월 18일 - 16일차
-
+① 51_머신러닝_모델성능평가.ipynb  
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;머신러닝모델성능평가.hwp  
+② 52_머신러닝_서포트벡터머신_알고리즘.ipynb  
+③ 53_머신러닝_서포트벡터머신_알고리즘_포지션예측.ipynb  
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;결정경계시각화.txt  
+④ 54_최적화_경사하강법_모멘텀.ipynb  
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;differential1.png  
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;differential2.png
 
 # 2026년 11월 17일 - 15일차
 ① 48_머신러닝에_사용할_데이터_전처리.ipynb  
