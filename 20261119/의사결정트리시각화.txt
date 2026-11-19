@@ -1,0 +1,25 @@
+def decision_tree_surface(model, x, y):
+    plt.figure(figsize=(8, 6))
+    x_min = x.longitude.min() - 0.01
+    x_max = x.longitude.max() + 0.01
+    y_min = x.latitude.min() - 0.01
+    y_max = x.latitude.max() + 0.01
+    
+    n_classes = len(encode.classes_)
+    plot_color = 'rywb'
+    plot_step = 0.001
+    
+    xx, yy = np.meshgrid(np.arange(x_min, x_max, plot_step), np.arange(y_min, y_max, plot_step))
+    z = model.predict(np.c_[xx.ravel(), yy.ravel()])
+    z = z.reshape(xx.shape)
+    
+    plt.contourf(xx, yy, z, cmap=plt.cm.RdYlBu)
+    plt.title('학습된 의사결정 트리 영역 그래프')
+    plt.xlabel('경도')
+    plt.ylabel('위도')
+    
+    for i, color in zip(range(n_classes), plot_color):
+        idx = np.where(y == i)
+        plt.scatter(x=x.loc[idx].longitude, y=x.loc[idx].latitude, c=color, edgecolors='k', s=80, label=encode.classes_[i])
+    plt.legend(loc=1, bbox_to_anchor=(1.3, 1), fontsize=12)
+    plt.show()
