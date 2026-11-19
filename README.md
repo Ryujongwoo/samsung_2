@@ -1,5 +1,17 @@
 # 2026년 11월 19일 - 17일차
-
+① 54_최적화_경사하강법_모멘텀.ipynb  
+② 55_머신러닝_의사결정트리_알고리즘.ipynb  
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;giniIndex.png  
+③ 56_머신러닝_의사결정트리_알고리즘_구예측.ipynb  
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;의사결정트리데이터.txt  
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;의사결정트리시각화.txt  
+④ 57_머신러닝_가우시안_나이브베이즈_알고리즘.ipynb  
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;naivebayes1.png  
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;naivebayes2.png  
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;naivebayes3.png  
+⑤ 58_머신러닝_베르누이_나이브베이즈_알고리즘_스팸분류.ipynb  
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;베르누이_나이브_베이즈_스팸분류.txt  
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;다항분포_나이브_베이즈_영화리뷰.txt
 
 # 2026년 11월 18일 - 16일차
 ① 51_머신러닝_모델성능평가.ipynb  
