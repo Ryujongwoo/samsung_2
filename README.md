@@ -1,21 +1,17 @@
 # 2026년 11월 20일 - 18일차
-59_머신러닝_다항분포_나이브베이즈_알고리즘_리뷰분류.ipynb
-18일차
-now
-60_머신러닝_앙상블_랜덤포레스트_알고리즘.ipynb
-18일차
-now
-① 61_머신러닝_앙상블_랜덤포레스트_알고리즘_숫자손글씨분류.ipynb  
+① 59_머신러닝_다항분포_나이브베이즈_알고리즘_리뷰분류.ipynb  
+② 60_머신러닝_앙상블_랜덤포레스트_알고리즘.ipynb  
+③ 61_머신러닝_앙상블_랜덤포레스트_알고리즘_숫자손글씨분류.ipynb  
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;bootstrap.png  
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;aggregating1.png  
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;aggregating2.png  
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;aggregating3.png  
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;boosting1.png  
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;boosting2.png  
-② 62_머신러닝_앙상블_보팅_알고리즘.ipynb  
-③ 63_머신러닝_앙상블_보팅_알고리즘_숫자손글씨분류.ipynb  
-④ 64_머신러닝_앙상블_부스팅_알고리즘.ipynb  
-⑤ 65_머신러닝_앙상블_스태킹_알고리즘.ipynb
+④ 62_머신러닝_앙상블_보팅_알고리즘.ipynb  
+⑤ 63_머신러닝_앙상블_보팅_알고리즘_숫자손글씨분류.ipynb  
+⑥ 64_머신러닝_앙상블_부스팅_알고리즘.ipynb  
+⑦ 65_머신러닝_앙상블_스태킹_알고리즘.ipynb
 
 # 2026년 11월 19일 - 17일차
 ① 54_최적화_경사하강법_모멘텀.ipynb  
