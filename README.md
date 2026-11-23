@@ -1,5 +1,5 @@
 # 2026년 11월 23일 - 19일차
-
+https://devlog.jwgo.kr/2018/04/16/sigmoid-graph-according-to-slope-change/#google_vignette
 
 # 2026년 11월 20일 - 18일차
 ① 59_머신러닝_다항분포_나이브베이즈_알고리즘_리뷰분류.ipynb  
