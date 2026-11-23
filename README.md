@@ -4,11 +4,11 @@
 ③ 68_머신러닝_선형회귀_tensorflow.ipynb  
 ④ 69_머신러닝_선형회귀_tensorflow_가중치바이어스.ipynb  
 ⑤ 70_머신러닝_선형회귀_tensorflow_평균제곱근오차.ipynb  
-71_머신러닝_선형회귀_tensorflow_경사하강법.ipynb  
+⑥ 71_머신러닝_선형회귀_tensorflow_경사하강법.ipynb  
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;gradient_descent.png  
-⑥ 72_머신러닝_다중선형회귀_tensorflow.ipynb  
-⑥ 73_머신러닝_선형회귀_sklearn.ipynb  
-⑦ 74_머신러닝_로지스틱회귀_tensorflow.ipynb  
+⑦ 72_머신러닝_다중선형회귀_tensorflow.ipynb  
+⑧ 73_머신러닝_선형회귀_sklearn.ipynb  
+⑨ 74_머신러닝_로지스틱회귀_tensorflow.ipynb  
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;sigmoid.png  
 
 https://devlog.jwgo.kr/2018/04/16/sigmoid-graph-according-to-slope-change/#google_vignette
