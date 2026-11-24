@@ -1,4 +1,15 @@
 # 2026년 11월 24일 - 20일차
+① 74_머신러닝_로지스틱회귀_tensorflow.ipynb  
+② 75_머신러닝_다중로지스틱회귀_tensorflow.ipynb  
+③ 76_머신러닝_로지스틱회귀_sklearn.ipynb  
+④ 77_머신러닝_차원축소(PCA)_주성분분석1.ipynb  
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;pca1.png  
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;pca2.png  
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;pca3.png  
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;pca4.png  
+⑤ 78_머신러닝_차원축소(PCA)_주성분분석2.ipynb  
+⑥ 79_머신러닝_차원축소(PCA)_주성분분석3.ipynb  
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;pca.txt
 
 
 # 2026년 11월 23일 - 19일차
