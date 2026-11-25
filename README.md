@@ -184,12 +184,14 @@ https://getbootstrap.com/docs/3.4/components/
 ⑤ 10_for.ipynb
 
 # 2026년 10월 29일 - 2일차
+```
 ① 02_input.ipynb  
 ② 03_string.ipynb  
 ③ 04_stringMethod.ipynb  
 ④ 05_if.ipynb  
 ⑤ 06_list.ipynb  
-&nbsp;&nbsp;&nbsp;&nbsp;▶ andOrNot.png
+  andOrNot.png
+'''
 
 # 2026년 10월 28일 - 1일차
 ```
