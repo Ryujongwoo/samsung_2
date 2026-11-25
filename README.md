@@ -1,5 +1,17 @@
 # 2026년 11월 25일 - 21일차
-
+① 79_머신러닝_차원축소_주성분분석(PCA)3.ipynb  
+② 80_머신러닝_차원축소_커널주성분분석(KPCA).ipynb  
+③ 81_머신러닝_차원축소_선형판별분석(LDA).ipynb  
+④ 82_머신러닝_차원축소_지역적선형임베딩(LLE).ipynb  
+⑤ 83_머신러닝_차원축소_비음수행렬분해(NMF).ipynb  
+⑥ 84_머신러닝_클러스터링_k평균1.ipynb  
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Clustering1.png  
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Clustering2.png  
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Clustering3.png  
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;cluster.csv  
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;palette.png  
+⑦ 85_머신러닝_클러스터링_k평균2.ipynb  
+⑧ 86_머신러닝_클러스터링_계층.ipynb  
 
 # 2026년 11월 24일 - 20일차
 ① 74_머신러닝_로지스틱회귀_tensorflow.ipynb  
