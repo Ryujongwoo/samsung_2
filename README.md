@@ -149,6 +149,7 @@ https://getbootstrap.com/docs/3.4/components/
 ⑤ 31_folium_지도시각화.ipynb  
 ⑥ 32_스타벅스매장위치_지도시각화.ipynb  
 
+```
 # 2026년 11월 4일 - 6일차
 ① 22_try_except.ipynb  
 ② 23_fileWrite.ipynb  
@@ -159,7 +160,9 @@ https://getbootstrap.com/docs/3.4/components/
 크롤링 headers  
 {'User-agent': 'Mozilla/5.0 (Windows NT 6.3; Win64; x64; Trident/7.0; MSAppHost/2.0; rv:11.0) like Gecko'}  
 ⑥ 27_음원사이트크롤링_벅스차트.ipynb
+```
 
+```
 # 2026년 11월 3일 - 5일차
 ① 13_function_1.ipynb  
 ② 14_function_2.ipynb  
@@ -170,18 +173,23 @@ https://getbootstrap.com/docs/3.4/components/
 ⑦ 19_calendar_1.ipynb  
 ⑧ 20_calendar_2.ipynb  
 ⑨ 21_calendar_3.ipynb  
+```
 
+```
 # 2026년 11월 2일 - 4일차
 ① 10_for.ipynb  
 ② 11_while.ipynb  
 ③ 12_lotto.ipynb
+```
 
+```
 # 2026년 10월 30일 - 3일차
 ① 06_list.ipynb  
 ② 07_tuple.ipynb  
 ③ 08_dict.ipynb  
 ④ 09_set.ipynb  
 ⑤ 10_for.ipynb
+```
 
 # 2026년 10월 29일 - 2일차
 ```
