@@ -191,7 +191,7 @@ https://getbootstrap.com/docs/3.4/components/
 ④ 05_if.ipynb  
 ⑤ 06_list.ipynb  
   andOrNot.png
-'''
+```
 
 # 2026년 10월 28일 - 1일차
 ```
