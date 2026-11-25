@@ -195,6 +195,6 @@ https://getbootstrap.com/docs/3.4/components/
 ```
 ① 00_파이썬설치.ipynb  
 ② 01_print.ipynb  
-&nbsp;&nbsp;&nbsp;&nbsp;▶ custom.css  
-&nbsp;&nbsp;&nbsp;&nbsp;▶ python-logo.png
+  custom.css  
+  python-logo.png
 ```
