@@ -1,6 +1,24 @@
 # 2026년 11월 26일 - 22일차
 ```
-
+① 086_머신러닝_클러스터링_병합계층.ipynb
+② 087_머신러닝_클러스터링_가우시안혼합.ipynb
+③ 088_머신러닝_클러스터링_밀도기반.ipynb
+④ 089_딥러닝_퍼셉트론.ipynb
+  deepLearning1.png
+  deepLearning2.png
+  perceptron1.png
+  perceptron2.png
+  perceptron3.png
+  perceptron.png
+⑥ 090_딥러닝_다층퍼셉트론.ipynb
+  multilayer_perceptron1.png
+  multilayer_perceptron2.png
+  multilayer_perceptron3.png
+  multilayer_perceptron4.png
+⑦ 091_딥러닝_다층퍼셉트론_MNIST손글씨.ipynb
+  MNIST1.png
+  MNIST2.png
+  MNIST3.png
 ```
 
 # 2026년 11월 25일 - 21일차
