@@ -1,6 +1,28 @@
 # 2026년 11월 27일 - 23일차
-
-
+```
+① 091_딥러닝_다층퍼셉트론_MNIST손글씨.ipynb
+② 092_딥러닝_ANN_인공신경망.ipynb
+  ann01.png
+  ann02.png
+  ann03.png
+  ann04.png
+  ann05.png
+  ann06.png
+  ann07.png
+  ann08.png
+  ann09.png
+  ann10.png
+  ann11.png
+③ 093_딥러닝_CNN_합성곱신경망.ipynb
+  CNN1.png
+  CNN2.png
+  CNN3.png
+  CNN4.png
+  CNN5.png
+  CNN6.png
+  CNN7.png
+  CNN8.png
+```
 
 # 2026년 11월 26일 - 22일차
 ```
